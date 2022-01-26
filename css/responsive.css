@@ -1,0 +1,921 @@
+
+
+/*
+====================================
+large Screen - Others
+====================================
+*/
+@media screen and (min-width: 1400px) and (max-width: 1600px){
+
+.header-absulate {
+    display: none;
+    
+}
+
+.banner-text {
+	left: 47%;
+	transform: translate(-47%,-20%);
+
+}
+
+.banner-img02 {
+	left: -12%;
+
+}
+
+
+
+
+
+}
+
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+
+.header-absulate {
+    display: none;
+
+}
+
+.banner-text {
+	left: 38%;
+	transform: translate(-27%,-20%);
+
+}
+
+.banner-img02 {
+	left: -21%;
+
+}
+
+.about-right {
+	margin: 30px 0px 30px 20px;
+
+}
+
+
+
+
+
+}
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+.banner-text {
+	top: 30%;
+	left: 25%;
+	transform: translate(-15%,-20%);
+
+}
+
+.banner-img02 {
+	left: -22%;
+	bottom: -25%;
+
+}
+
+.header-area {
+    padding-bottom: 820px;
+
+}
+
+.banner-text h2 {
+	font-size: 45px;
+	line-height: 40px;
+	padding-top: 130px;
+	
+}
+
+.banner-img01 {
+	width: 400px;
+	height: 400px;
+	right: -7%;
+	top: -10%;
+
+}
+
+.banner-text p {
+	font-size: 16px;
+	line-height: 29px;
+
+}
+
+.banner-text span {
+	width: 30px;
+	margin-bottom: 4px;
+
+}
+
+.bannar-icon ul li a {
+    margin: 25px 0px;
+
+}
+
+.Service-item br {
+	display: none;
+
+}
+
+.Service-item {
+	min-height: 360px;
+
+}
+
+.Service-main-cnt h2 {
+	font-size: 45px;
+
+}
+
+.Service-item:hover {
+    transform: scale(1);
+
+}
+
+.social-account a {
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 18px;
+	margin: 30px 13px 30px 0px;
+	
+}
+
+.about-right {
+	margin: 30px 0px 30px 10px;
+
+}
+
+.about-text h2 {
+	font-size: 45px;
+
+}
+
+.about-right .about-right-details p {
+	font-size: 15px;
+
+}
+
+.social-account a {
+	width: 42px;
+	height: 42px;
+	line-height: 42px;
+	font-size: 16px;
+	margin: 30px 10px 45px 0px;
+	
+}
+
+.form-area form [type="submit"] {
+	margin-bottom: 40px;
+
+}
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.menu-area {
+  display: none;
+
+}
+
+.header-cnt {
+	padding: 20px 0px 20px;
+
+}
+
+.hambarger-area {
+  display: block;
+
+}
+
+.banner-text {
+	top: 24%;
+	left: 31%;
+	transform: translate(-21%,-20%);
+
+}
+
+.banner-text h2 {
+	font-size: 35px;
+
+	line-height: 64px;
+	padding-top: 100px;
+
+}
+
+.header-area {
+	padding-bottom: 590px;
+
+}
+
+.banner-img02 img {
+	bottom: -25%;
+	left: 60px;
+
+}
+
+.banner-img02 {
+	background: linear-gradient(#B657ED,#7743E0);
+
+}
+
+.banner-img03 {
+    display: none;
+
+}
+
+.banner-text p {
+	line-height: 32px;
+	padding-top: 0 ;
+
+}
+
+.banner-img02 {
+	height: 450px;
+	width: 450px;
+
+}
+
+.banner-img01 {
+	display: none;
+
+}
+
+.bannar-icon {
+    bottom: 25%;
+
+}
+
+.bannar-icon ul li a {
+    margin: 20px 0px;
+
+}
+
+.Service-area {
+	padding: 70px 0px;
+
+}
+
+.Service-main-cnt h2 {
+	font-size: 35px;
+	line-height: 40px;
+
+}
+
+.Service-flow {
+margin-top: 30px;
+
+}
+
+.Service-item br {
+	display: none;
+
+}
+
+.Service-item:hover {
+    transform: scale(1);
+
+}
+
+.portfolio-1st {
+	padding: 70px 0 300px;
+
+}
+
+.portfolio-1st h2 {
+	font-size: 35px;
+	padding-top: 15px;
+	padding-bottom: 40px;
+
+}
+
+.Service-item p {
+	font-size: 15px;
+
+}
+
+.about-left p {
+	font-size: 16px;
+	margin-top: -20px;
+}
+
+.portfolio-item {
+	margin-right: 0px;
+
+}
+
+.portfolio-item img {
+	min-height: 400px;
+
+}
+
+.portfolio-item .last-image {
+	max-height: 400px;
+
+}
+
+.about-right {
+	margin: 20px 0px 30px 0px;
+
+}
+
+.more-folio a {
+	margin: 30px 0px 30px;
+
+}
+
+.form-area form [type="submit"] {
+	width: 22%;
+	
+	margin-bottom: 30px;
+	padding: 10px 15px;
+	margin-top: 15px;
+}
+
+.counter {
+	margin: 40px 0px;
+
+}
+
+.main-content .owl-theme .custom-nav {
+    display: none;
+
+}
+
+.owl-theme .owl-dots .owl-dot {
+	display: none;
+
+}
+
+.carousel-opacity {
+	padding: 60px 0px;
+
+}
+
+.footer-main-cnt h2 {
+	font-size: 35px;
+	line-height: 45px;
+
+}
+
+.footer-border {
+	padding: 60px 0px;
+
+}
+
+.counter-list h6 {
+	font-size: 40px;
+
+}
+
+.about-text h2 {
+	font-size: 35px;
+
+}
+
+.form-area input {
+	font-size: 16px;
+	padding: 20px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	background: #f5f5f5;
+
+}
+
+.about-right .about-right-details p {
+	font-size: 16px;
+
+}
+
+.about-right h3, .about-left h3 {
+	font-size: 25px;
+
+}
+
+.blog-right {
+	margin-left: 0px;
+
+}
+
+.blog-card {
+	margin-left: 0px;
+
+}
+
+.instagram-feeds {
+	margin-left: 0px;
+
+}
+
+.footer-item img {
+	max-width: 80px;
+
+}
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.menu-area {
+  display: none;
+
+}
+
+.header-cnt {
+	padding: 15px 0px 15px;
+
+}
+
+.logo-area  img {
+	width: 60px;
+
+}
+
+.hambarger-area {
+  display: block;
+
+}
+
+.banner-img01 {
+	display: none;
+
+}
+
+.nav-area {
+	padding-top: 20px;
+
+}
+
+.banner-img02 {
+	background: linear-gradient(#B657ED,#7743E0);
+	height: 600px;
+	width: 600px;
+	left: -47%;
+	bottom: -282px;
+	
+}
+
+.banner-text {
+	top: 28%;
+	left: 3%;
+	transform: translate(-2%,-14%);
+
+}
+
+.banner-text h2 {
+	font-size: 30px;
+	line-height: 35px;
+
+}
+
+.banner-text p {
+	font-size: 20px;
+	line-height: 29px;
+	padding-top: 7px;
+
+}
+
+.header-area {
+	padding-bottom: 560px;
+
+}
+
+.banner-img03 {
+	display: none;
+
+}
+
+.bannar-icon {
+	display: none;
+
+}
+
+.Service-area {
+	padding: 40px 0px;
+
+}
+
+.Service-main-cnt h2 {
+	font-size: 25px;
+	line-height: 40px;
+
+}
+
+.Service-item:hover {
+    transform: scale(1);
+    background: #B757ED;
+
+}
+
+.Service-item {
+	padding: 30px;
+
+}
+
+.Service-flow {
+	margin-top: 30px;
+
+}
+
+
+.Service-item br {
+	display: none;
+
+}
+
+.Service-item h3 {
+	font-size: 20px;
+
+}
+
+.portfolio-item img {
+	min-height: 400px;
+
+}
+
+.portfolio-1st {
+	padding: 60px 0 300px;
+
+}
+
+.portfolio-1st h2 {
+	font-size: 25px;
+	line-height: 30px;
+	padding: 20px 15px 40px 15px;
+
+}
+
+.more-folio a {
+	font-size: 13px;
+	padding: 10px 20px;
+	margin: 15px 0px 20px;
+
+}
+
+.about-right h3, .about-left h3 {
+	font-size: 25px;
+	padding-top: 15px;
+
+}
+
+.about-left .social-account h4, .about-left .skills h4, .about-left .form-area h4, .about-right .about-right-details h4 {
+	font-size: 15px;
+	padding: 18px 0px;
+
+}
+
+.about-left p {
+	font-size: 16px;
+
+}
+
+.about-right .social-account a {
+	display: block;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 14px;
+	margin: 30px 10px 30px 0px;
+
+}
+
+.about-right {
+	margin: 20px 0px 40px 0px;
+
+}
+
+.about-right .about-right-details p {
+	font-size: 13px;
+
+}
+
+.skill-bar-percent {
+	font-size: 13px;
+	
+}
+
+.form-area input {
+	font-size: 13px;
+	padding: 11px 15px;
+	padding-bottom: 9px;
+	margin-bottom: 15px;
+}
+
+.form-area form [type="submit"] {
+	padding: 8px 20px;
+	width: 40%;
+	margin-top: 20px;
+	margin-bottom: 30px;
+
+}
+
+.skill-bar-percent {
+	left: 30%;
+	
+}
+
+.counter {
+	margin: 0px 0px 15px;
+
+}
+
+.portfolio-area {
+    overflow: hidden;
+
+}
+
+.counter-list h6 {
+	font-size: 35px;
+	
+}
+
+.counter-list i {
+	font-size: 25px;
+
+}
+
+.carousel-opacity {
+	padding: 50px 0px;
+
+}
+
+.carousel-cnt br {
+	display: none;
+
+}
+
+.carousel-cnt p {
+	font-size: 14px;
+
+}
+
+.main-content .owl-theme .custom-nav {
+    display: none;
+
+}
+
+.owl-theme .owl-dots .owl-dot {
+	display: none;
+
+}
+
+dl.questions dt {
+	background-size: 10px;
+	cursor: pointer;
+	padding: 15px 28px;
+	font-size: 16px;
+	letter-spacing: 0px;
+
+}
+
+.Service-item p {
+	font-size: 16px;
+	
+}
+
+dl.questions .expanded_img {
+	background-size: 10px;
+	
+}
+
+dl.questions dd {
+	font-size: 14px;
+
+}
+
+.footer-main-cnt h2 {
+	font-size: 25px;
+	line-height: 31px;
+
+}
+
+.footer-border {
+	padding: 45px 0px;
+
+}
+
+.footer-main-cnt a {
+	font-size: 14px;
+	padding: 10px 15px;
+
+}
+
+.footer-item {
+	margin-top: 30px;
+
+}
+
+.footer-item ul.icon li a {
+	font-size: 14px;
+
+}
+
+.footer-item img {
+	max-width: 80px;
+
+}
+
+.footer-item ul.icon li p {
+	font-size: 14px;
+
+}
+
+.copyright-area p {
+	font-size: 14px;
+	
+}
+
+.about-text {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-25%);
+	
+}
+
+.about-text h2 {
+	font-size: 30px;
+	
+}
+
+.blog-card h2, 
+.blog-left h2 {
+	font-size: 20px;
+
+}
+
+.blog-post .blog-cnt h3 {
+	font-size: 18px;
+
+}
+
+.blog-post .blog-cnt p {
+	font-size: 14px;
+	line-height: 28px;
+}
+
+
+.blog-cnt .blog-icon ul li a {
+	font-size: 14px;
+	padding-right: 8px;
+
+}
+
+.blog-cnt a.see-more {
+	font-size: 16px;
+	padding: 10px 24px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+
+}
+
+.header-about {
+	padding-bottom: 315px !important;
+
+}
+
+.blog-card-post .blog-card-details p {
+	font-size: 14px;
+
+}
+
+.blog-right {
+	margin-left: 0px;
+
+}
+
+.blog-card {
+	margin-left: 0px;
+
+}
+
+.instagram-feeds {
+	margin-left: 0px;
+
+}
+
+.social-account h4 {
+	font-size: 16px;
+
+}
+
+.recent-post-inner h4 {
+	font-size: 14px;
+
+}
+
+.recent-post-inner p {
+	font-size: 12px;
+
+}
+
+.form-map {
+	padding: 15px;
+	min-height: 0px;
+
+}
+
+.map-item h6 {
+	font-size: 16px;
+	
+}
+
+.element-right h2,
+.element-form h2,
+.table-section h2,
+.sample-buttons-list h2,
+.elements-sampol-text h2 {
+	font-size: 20px;
+
+}
+
+.elements-sampol-text .mixed {
+	font-size: 14px;
+
+}
+
+.elements-sampol {
+	padding: 0px 0px 30px;
+
+}
+
+.sample-buttons-list ul.sample-list li {
+	display: inline-block;
+	margin: 8px 3px 15px 0px;
+
+}
+
+.sample-buttons {
+	padding: 30px 0px 30px;
+
+}
+
+.table-section {
+	padding: 30px 0px 30px;
+
+}
+
+.progress-table .table-row {
+	padding: 15px 0;
+
+}
+
+.progress-table .table-head .serial,
+.progress-table .table-head .country,
+.progress-table .table-head .visit,
+.progress-table .table-head .percentage {
+	font-size: 16px;
+
+}
+
+.progress-table .table-row .serial,
+.progress-table .table-row .country,
+.progress-table .table-row .visit,
+.progress-table .table-row .percentage {
+	font-size: 15px;
+
+}
+
+.element-right {
+	margin-left: 0px;
+	
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
